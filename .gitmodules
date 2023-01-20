@@ -1,3 +1,6 @@
 [submodule "site-api"]
 	path = site-api
 	url = https://github.com/marcelomgr/site-api.git
+[submodule "site-front"]
+	path = site-front
+	url = https://github.com/marcelomgr/site-front.git
